@@ -1,0 +1,939 @@
+WEBVTT
+1
+00:00:00.000 --> 00:00:01.060
+Welcome to the Deep Dive.
+2
+00:00:01.060 --> 00:00:03.720
+We take a whole stack of information, sift through it,
+3
+00:00:03.720 --> 00:00:07.600
+and pull out the key insights just for you.
+4
+00:00:07.600 --> 00:00:09.900
+Today, we're really getting into the professional journey
+5
+00:00:09.900 --> 00:00:10.860
+of S. Kamalakar.
+6
+00:00:10.860 --> 00:00:13.320
+We've got his resume, his LinkedIn profile,
+7
+00:00:13.320 --> 00:00:15.960
+and we're trying to map out his evolution
+8
+00:00:15.960 --> 00:00:17.160
+as a tech innovator.
+9
+00:00:17.160 --> 00:00:18.480
+Yeah, it looks like quite a path.
+10
+00:00:18.480 --> 00:00:21.080
+We're seeing everything from chatbots early on
+11
+00:00:21.080 --> 00:00:23.680
+to cloud architecture, and now really pushing
+12
+00:00:23.680 --> 00:00:25.920
+into generative AI, eGenic AI, too.
+13
+00:00:25.920 --> 00:00:26.840
+It's quite the range.
+14
+00:00:26.840 --> 00:00:29.240
+Exactly, so our mission, if you will,
+15
+00:00:29.240 --> 00:00:32.160
+is to trace that trajectory, see the key achievements,
+16
+00:00:32.160 --> 00:00:34.480
+understand the tech, the strategies,
+17
+00:00:34.480 --> 00:00:37.919
+how he got from A to B, and now to, well, the cutting edge.
+18
+00:00:37.919 --> 00:00:39.840
+And right away, what kind of jumps out
+19
+00:00:39.840 --> 00:00:43.639
+is this strong emphasis on actually creating things.
+20
+00:00:43.639 --> 00:00:44.959
+It's not just theory.
+21
+00:00:44.959 --> 00:00:46.320
+It's building stuff that works.
+22
+00:00:46.320 --> 00:00:48.439
+You see that practical focus pretty consistently.
+23
+00:00:48.439 --> 00:00:50.520
+Absolutely, that drive to make ideas real.
+24
+00:00:50.520 --> 00:00:53.119
+Like, back in his second year of college,
+25
+00:00:53.119 --> 00:00:56.200
+he had this idea for a story-sharing platform,
+26
+00:00:56.200 --> 00:00:57.759
+and he didn't just sketch it out.
+27
+00:00:57.759 --> 00:01:00.040
+He actually started coding an Android app.
+
+28
+00:01:00.000 --> 00:01:03.880
+Right, building out the core stuff, logins, posts, likes, comments.
+29
+00:01:03.880 --> 00:01:08.600
+Yeah, those engagement features, that's real problem-solving right there, early on.
+30
+00:01:08.600 --> 00:01:09.600
+It really is.
+31
+00:01:09.600 --> 00:01:14.320
+And you can see how that kind of hands-on project, even a personal one, just lays the
+32
+00:01:14.320 --> 00:01:15.560
+groundwork, doesn't it?
+33
+00:01:15.560 --> 00:01:16.559
+Definitely.
+34
+00:01:16.559 --> 00:01:21.000
+What do you think someone learns fundamentally from tackling something like that solo?
+35
+00:01:21.000 --> 00:01:22.160
+Oh, tons.
+36
+00:01:22.160 --> 00:01:24.000
+You get exposure to the whole life cycle, right?
+37
+00:01:24.000 --> 00:01:25.000
+Right.
+38
+00:01:25.000 --> 00:01:28.840
+From the initial spark, the design, the actual coding, debugging.
+39
+00:01:28.840 --> 00:01:32.720
+It builds that core understanding you need before you can really tackle the bigger, more
+40
+00:01:32.720 --> 00:01:36.720
+complex professional challenges later, seeing how that focus evolves.
+41
+00:01:36.720 --> 00:01:42.599
+Okay, so moving into his professional work, we see that focus shift to maybe more applied
+42
+00:01:42.599 --> 00:01:46.639
+skills, projects with measurable impact.
+43
+00:01:46.639 --> 00:01:50.439
+His resume mentions quite a bit of Python and AWS Lambda.
+44
+00:01:50.439 --> 00:01:53.119
+Yes, particularly in that fraud detection system for hotels.
+45
+00:01:53.119 --> 00:01:54.119
+Right.
+46
+00:01:54.119 --> 00:01:55.119
+And this wasn't just a concept.
+47
+00:01:55.119 --> 00:01:57.220
+They used face recognition, so computer vision, essentially.
+48
+00:01:57.220 --> 00:01:59.459
+With OpenCV and TensorFlow, yeah.
+49
+00:01:59.459 --> 00:01:59.959
+Powerful tool.
+
+50
+00:02:00.000 --> 00:02:01.200
+for pattern recognition.
+51
+00:02:01.200 --> 00:02:03.340
+And the result, it apparently saved hotels
+52
+00:02:03.340 --> 00:02:04.580
+around $10,000 a month.
+53
+00:02:04.580 --> 00:02:06.920
+That's serious business value.
+54
+00:02:06.920 --> 00:02:07.960
+It really is.
+55
+00:02:07.960 --> 00:02:09.880
+And achieving that, it's not just about
+56
+00:02:09.880 --> 00:02:11.040
+knowing TensorFlow, right?
+57
+00:02:11.040 --> 00:02:13.380
+It's about integrating it smartly
+58
+00:02:13.380 --> 00:02:15.540
+within something like AWS.
+59
+00:02:15.540 --> 00:02:17.920
+Taking these advanced tools and pointing them
+60
+00:02:17.920 --> 00:02:19.920
+at a concrete business problem
+61
+00:02:19.920 --> 00:02:22.040
+and actually getting those financial results.
+62
+00:02:22.040 --> 00:02:22.879
+That's key.
+63
+00:02:22.879 --> 00:02:25.000
+Then there's a retail footfall project.
+64
+00:02:25.000 --> 00:02:26.080
+This sounds pretty big,
+65
+00:02:26.080 --> 00:02:28.240
+deployed in over 300 stores across India.
+66
+00:02:28.360 --> 00:02:30.200
+Wow, okay, 300 stores.
+67
+00:02:30.200 --> 00:02:32.400
+Yeah, using AWS recognition,
+68
+00:02:32.400 --> 00:02:35.160
+that's Amazon's video analysis service, right?
+69
+00:02:35.160 --> 00:02:36.840
+And native Android development.
+70
+00:02:36.840 --> 00:02:39.439
+To figure out customer demographics from video feeds.
+71
+00:02:39.439 --> 00:02:41.599
+And what's interesting is the progression
+72
+00:02:41.599 --> 00:02:45.279
+started as an MVP, a minimum viable product.
+73
+00:02:45.279 --> 00:02:46.560
+So like a test version.
+74
+00:02:46.560 --> 00:02:48.119
+Exactly, to test the waters,
+75
+00:02:48.119 --> 00:02:50.880
+and then it grew into a full B2B solution.
+76
+00:02:50.880 --> 00:02:54.400
+And he led the team, designing, developing, deploying.
+77
+00:02:54.400 --> 00:02:56.040
+That speaks volumes, yeah.
+78
+00:02:56.040 --> 00:02:58.639
+Technical skill, leadership, product sense.
+79
+00:02:58.639 --> 00:03:00.439
+Scaling something to 300 locations.
+
+80
+00:03:00.000 --> 00:03:01.000
+That's not trivial.
+81
+00:03:01.000 --> 00:03:04.000
+What kind of challenges pop up when you scale like that?
+82
+00:03:04.000 --> 00:03:05.000
+Oh, loads.
+83
+00:03:05.000 --> 00:03:09.000
+Managing all that data coming in from different places, making sure it works reliably everywhere,
+84
+00:03:09.000 --> 00:03:13.000
+different network conditions, coordination of deployment, maintenance.
+85
+00:03:13.000 --> 00:03:15.000
+It gets complex fast.
+86
+00:03:15.000 --> 00:03:20.000
+And going from MVP to full product means you're really listening to feedback and iterating.
+87
+00:03:20.000 --> 00:03:21.000
+That's crucial.
+88
+00:03:21.000 --> 00:03:22.000
+Okay, and then the chatbots.
+89
+00:03:22.000 --> 00:03:25.000
+The number is just, wow, over 60 chatbots developed.
+90
+00:03:25.000 --> 00:03:26.000
+Sixty.
+91
+00:03:26.000 --> 00:03:27.000
+That's a lot of conversational AI.
+92
+00:03:27.000 --> 00:03:29.000
+For all sorts of clients.
+93
+00:03:29.000 --> 00:03:30.000
+And look at the tech stack.
+94
+00:03:30.000 --> 00:03:34.000
+Dialogflow, GupShup, Firebase, AWS, GCP services.
+95
+00:03:34.000 --> 00:03:36.000
+Mapbox for location stuff.
+96
+00:03:36.000 --> 00:03:38.000
+Standard REST APIs for integrations.
+97
+00:03:38.000 --> 00:03:41.000
+It paints a picture of someone really adaptable, doesn't it?
+98
+00:03:41.000 --> 00:03:47.000
+Tailoring solutions, big and small project values from like $5 to over $10,000.
+99
+00:03:47.000 --> 00:03:48.000
+Definitely adaptable.
+100
+00:03:48.000 --> 00:03:53.000
+Knowing all those different platforms, Dialogflow, GupShup, etc., they each have their strengths or quirks.
+101
+00:03:53.000 --> 00:03:58.000
+Being comfortable across that range suggests, you know, a very practical approach.
+102
+00:03:58.000 --> 00:03:59.000
+Picking the right tool for the job.
+
+103
+00:04:00.000 --> 00:04:01.520
+not just sticking to one thing.
+104
+00:04:01.520 --> 00:04:05.800
+And some of these chatbots had a real tangible impact, like the Cowin chatbot during the
+105
+00:04:05.800 --> 00:04:06.800
+pandemic.
+106
+00:04:06.800 --> 00:04:07.800
+Ah, yes.
+107
+00:04:07.800 --> 00:04:09.600
+Helping people find vaccine slots.
+108
+00:04:09.600 --> 00:04:10.600
+Exactly.
+109
+00:04:10.600 --> 00:04:15.920
+Over 870 users found slots via WhatsApp using this system.
+110
+00:04:15.920 --> 00:04:18.240
+That's making a difference in a crisis.
+111
+00:04:18.240 --> 00:04:19.240
+Absolutely.
+112
+00:04:19.240 --> 00:04:24.920
+Using Flask on AWS EC2, Dialogflow, the official CoWin APIs, building something like that under
+113
+00:04:24.920 --> 00:04:26.760
+pressure, that's impressive.
+114
+00:04:26.760 --> 00:04:28.040
+What are the hurdles there?
+115
+00:04:28.040 --> 00:04:30.719
+Doing something so critical, so quickly.
+116
+00:04:30.719 --> 00:04:31.719
+Speed is everything, right?
+117
+00:04:31.719 --> 00:04:32.720
+Right.
+118
+00:04:32.720 --> 00:04:33.720
+But also reliability.
+119
+00:04:33.720 --> 00:04:39.160
+You've got potentially huge user numbers, changing requirements as the situation evolves,
+120
+00:04:39.160 --> 00:04:43.759
+integrating with external APIs like Cowins, which were probably under massive load themselves.
+121
+00:04:43.759 --> 00:04:46.320
+Delivering that quickly and effectively is a real feat.
+122
+00:04:46.320 --> 00:04:51.080
+And similarly, that food distribution app for the Noida government, also during COVID.
+123
+00:04:51.080 --> 00:04:55.240
+Using face recognition to ensure fair meal distribution to migrants.
+124
+00:04:55.240 --> 00:04:59.200
+Using AWS S3 for storage, Lambda for the compute.
+125
+00:04:59.200 --> 00:05:00.200
+Right.
+126
+00:05:00.200 --> 00:05:00.700
+Again, it's applying tech skills.
+
+127
+00:05:00.000 --> 00:05:01.640
+skills to a pressing social need.
+128
+00:05:01.640 --> 00:05:03.040
+It's really striking to see those examples.
+129
+00:05:03.040 --> 00:05:04.040
+Yeah.
+130
+00:05:04.040 --> 00:05:06.560
+It shows a commitment beyond just the, you know, the corporate project.
+131
+00:05:06.560 --> 00:05:09.480
+Using skills for social good, often under tough circumstances.
+132
+00:05:09.480 --> 00:05:10.480
+Okay.
+133
+00:05:10.480 --> 00:05:11.800
+Let's shift gears slightly.
+134
+00:05:11.800 --> 00:05:16.320
+Home automation may be more on the convenience side, but still interesting tech.
+135
+00:05:16.320 --> 00:05:20.080
+He built a system using Alexa skills and Google Assistant actions.
+136
+00:05:20.080 --> 00:05:21.480
+Voice control for home appliances.
+137
+00:05:21.480 --> 00:05:22.480
+Right.
+138
+00:05:22.480 --> 00:05:25.340
+Integrated with AWS, Lambda, and Firebase.
+139
+00:05:25.340 --> 00:05:29.280
+And the key thing mentioned is low latency under 200 milliseconds.
+140
+00:05:29.280 --> 00:05:30.280
+It's almost instant.
+141
+00:05:30.280 --> 00:05:31.280
+Ooh.
+142
+00:05:31.280 --> 00:05:32.279
+Yeah.
+143
+00:05:32.279 --> 00:05:33.279
+That's fast for that kind of interaction.
+144
+00:05:33.279 --> 00:05:34.680
+Voice command, action happens.
+145
+00:05:34.680 --> 00:05:37.759
+What goes into getting that kind of responsiveness?
+146
+00:05:37.759 --> 00:05:41.040
+It requires really tight, optimized architecture.
+147
+00:05:41.040 --> 00:05:45.759
+Efficient communication between, say, Alexa, the Lambda function doing the work, the Firebase
+148
+00:05:45.759 --> 00:05:47.480
+database holding the state.
+149
+00:05:47.480 --> 00:05:48.919
+Every millisecond counts.
+150
+00:05:48.919 --> 00:05:51.759
+Minimizing network hops, processing time.
+151
+00:05:51.759 --> 00:05:54.259
+It shows a real focus on user experience.
+152
+00:05:54.259 --> 00:05:55.799
+No one likes laggy voice commands.
+153
+00:05:55.799 --> 00:05:56.799
+Okay.
+154
+00:05:56.799 --> 00:05:57.799
+Now let's get into the more recent stuff.
+155
+00:05:57.959 --> 00:05:58.959
+AI focus.
+156
+00:05:58.959 --> 00:05:59.959
+There's a mention of a
+
+157
+00:06:00.000 --> 00:06:03.080
+DocAnalyzer POC proof-of-concept web app.
+158
+00:06:03.080 --> 00:06:04.600
+Built with React on the front end.
+159
+00:06:04.600 --> 00:06:08.040
+And LLM's large language models plus LangChain on the back end.
+160
+00:06:08.040 --> 00:06:09.040
+Right.
+161
+00:06:09.040 --> 00:06:13.540
+LangChain, that framework for building LLM applications, for analyzing documents, having
+162
+00:06:13.540 --> 00:06:15.400
+conversations about them.
+163
+00:06:15.400 --> 00:06:19.240
+This seems like an early exploration, right when Gen AI was really starting to bubble
+164
+00:06:19.240 --> 00:06:20.240
+up.
+165
+00:06:20.240 --> 00:06:21.680
+Shows initiative.
+166
+00:06:21.680 --> 00:06:22.680
+Definitely proactive.
+167
+00:06:22.680 --> 00:06:23.680
+Yeah.
+168
+00:06:23.680 --> 00:06:25.160
+What makes LangChain useful there?
+169
+00:06:25.160 --> 00:06:27.959
+Well, LangChain sort of streamlines things.
+170
+00:06:27.959 --> 00:06:32.799
+It gives you building blocks for connecting LLMs to data, managing prompts, creating
+171
+00:06:32.799 --> 00:06:33.799
+agents.
+172
+00:06:33.799 --> 00:06:37.439
+So you can prototype and experiment faster, without building everything from the ground
+173
+00:06:37.439 --> 00:06:38.439
+up.
+174
+00:06:38.439 --> 00:06:39.439
+Exactly.
+175
+00:06:39.439 --> 00:06:41.320
+It's great for exploring what these new models can actually do.
+176
+00:06:41.320 --> 00:06:42.320
+Makes sense.
+177
+00:06:42.320 --> 00:06:46.959
+And that exploration seems to lead directly to his current role at Elevon Data Labs.
+178
+00:06:46.959 --> 00:06:52.000
+Back end lead for an innovative inspection platform, using Gen AI to improve efficiency.
+179
+00:06:52.000 --> 00:06:53.000
+Right.
+180
+00:06:53.000 --> 00:06:55.639
+And the tech stack there is notable too, GCP App Engine.
+181
+00:06:55.639 --> 00:06:56.639
+Known for high uptime.
+182
+00:06:56.639 --> 00:06:57.639
+Yeah.
+183
+00:06:57.639 --> 00:06:58.639
+And for reliability.
+184
+00:06:58.639 --> 00:07:00.040
+Fast API for the APIs.
+
+185
+00:07:00.000 --> 00:07:04.000
+Cloud SQL for the database. Looks like a solid enterprise-grade setup.
+186
+00:07:04.000 --> 00:07:07.760
+When you pick something like App Engine for a critical system, what's top of mind?
+187
+00:07:07.760 --> 00:07:12.560
+Reliability, definitely. Scalability, ease of management, how well it plays with other
+188
+00:07:12.560 --> 00:07:17.520
+Google Cloud services, cost. App Engine's uptime is a big draw for sure.
+189
+00:07:17.520 --> 00:07:22.879
+And within that platform, they're using GenAI features, LLMs, and also RAG models.
+190
+00:07:22.879 --> 00:07:27.920
+Our retrieval augmented generation. That's where the AI fetches relevant info before generating
+191
+00:07:27.920 --> 00:07:32.320
+an answer, right? To make it more accurate. Exactly. It helps ground the LLM, prevents
+192
+00:07:32.320 --> 00:07:36.400
+it from just making stuff up, especially with specific or changing information like you'd
+193
+00:07:36.400 --> 00:07:40.240
+have in inspections. So using both standard LLMs and RJs suggests
+194
+00:07:40.240 --> 00:07:45.040
+a pretty sophisticated approach, tuning the AI for performance and precision.
+195
+00:07:45.040 --> 00:07:49.599
+Yeah, it shows they're thinking carefully about the limitations of LLMs and how to overcome them
+196
+00:07:49.599 --> 00:07:54.959
+for a real-world professional application. RAG adds that layer of trustworthiness.
+197
+00:07:54.959 --> 00:07:58.320
+And it's not just the AI side. Look at the CICD improvements.
+198
+00:07:58.320 --> 00:08:00.000
+Continuous integration, continuous deployment.
+
+199
+00:08:00.000 --> 00:08:02.800
+deployment using GCP Cloud Build and Terraform.
+200
+00:08:02.800 --> 00:08:07.120
+Yep, and the result, an 83% reduction in deployment time
+201
+00:08:07.120 --> 00:08:09.040
+from 60 minutes down to just 10.
+202
+00:08:09.040 --> 00:08:11.040
+Wow, an hour to 10 minutes, that's huge.
+203
+00:08:11.040 --> 00:08:12.580
+Enabling daily releases.
+204
+00:08:12.580 --> 00:08:15.720
+How does that kind of speed up change things for a dev team?
+205
+00:08:15.720 --> 00:08:16.920
+Oh, massively.
+206
+00:08:16.920 --> 00:08:19.480
+Faster iterations mean quicker feedback.
+207
+00:08:19.480 --> 00:08:22.200
+You can push out features and fixes much more often.
+208
+00:08:22.200 --> 00:08:23.719
+It just makes the whole development process
+209
+00:08:23.719 --> 00:08:25.799
+more agile, more responsive.
+210
+00:08:25.799 --> 00:08:27.879
+Leads to faster innovation, ultimately.
+211
+00:08:27.879 --> 00:08:30.400
+Then there's the exploration of agentic AI,
+212
+00:08:30.400 --> 00:08:32.840
+another sign of staying right on the edge.
+213
+00:08:32.840 --> 00:08:36.360
+Building an agentic voice agent using Google's ADK agent
+214
+00:08:36.360 --> 00:08:37.160
+development kit.
+215
+00:08:37.160 --> 00:08:39.560
+Yeah, the ADK is specifically designed
+216
+00:08:39.560 --> 00:08:41.320
+for building these more autonomous,
+217
+00:08:41.320 --> 00:08:43.480
+stable, agentic systems.
+218
+00:08:43.480 --> 00:08:46.759
+So it sounds like focused work, not just playing around.
+219
+00:08:46.759 --> 00:08:50.119
+What's the advantage of using a dedicated kit like Google's ADK
+220
+00:08:50.119 --> 00:08:50.680
+for this?
+221
+00:08:50.680 --> 00:08:52.040
+It provides structure, right?
+222
+00:08:52.040 --> 00:08:54.360
+Pre-built pieces, best practices.
+223
+00:08:54.360 --> 00:08:56.200
+It helps speed up development, but also
+224
+00:08:56.200 --> 00:09:01.000
+aims for more stable, reliable, performant agents.
+
+225
+00:09:00.000 --> 00:09:04.320
+can build more complex, effective, autonomous AI solutions faster.
+226
+00:09:04.320 --> 00:09:05.320
+Interesting.
+227
+00:09:05.320 --> 00:09:08.080
+And this is kind of cool, bringing it back to you, our listener, he apparently built
+228
+00:09:08.080 --> 00:09:11.720
+a portfolio agent using his own resume as the knowledge source.
+229
+00:09:11.720 --> 00:09:16.200
+So you can essentially talk to his resume, assess his skills through conversation.
+230
+00:09:16.200 --> 00:09:17.200
+Seems like it.
+231
+00:09:17.200 --> 00:09:19.840
+A really dynamic way to showcase experience makes it tangible.
+232
+00:09:19.840 --> 00:09:22.879
+Yeah, much more engaging than just reading a PDF.
+233
+00:09:22.879 --> 00:09:25.480
+It's a practical demo of his own NLP skills too.
+234
+00:09:25.480 --> 00:09:28.480
+Okay, circling back to CoreSkill's cloud expertise.
+235
+00:09:28.480 --> 00:09:32.759
+He's got the Google Certified Professional Cloud Architect Certification.
+236
+00:09:32.759 --> 00:09:34.500
+That's a serious cert.
+237
+00:09:34.500 --> 00:09:35.500
+Not easy to get.
+238
+00:09:35.500 --> 00:09:40.520
+It definitely validates deep knowledge of GCP designing, building, managing solutions
+239
+00:09:40.520 --> 00:09:42.040
+on Google Cloud.
+240
+00:09:42.040 --> 00:09:44.000
+What does getting a cert like that usually involve?
+241
+00:09:44.000 --> 00:09:46.040
+A lot of study, usually.
+242
+00:09:46.040 --> 00:09:50.439
+Cloud principles, architectural patterns, the specifics of GCP services.
+243
+00:09:50.439 --> 00:09:55.119
+And then proving it, likely through practical experience and a tough exam.
+244
+00:09:55.119 --> 00:09:56.160
+It shows commitment.
+245
+00:09:56.160 --> 00:09:58.119
+And we see the practical application too.
+246
+00:09:58.119 --> 00:10:00.360
+App Engine, Cloud SQL, Cloud Build.
+
+247
+00:10:00.000 --> 00:10:05.000
+Terraform, text-to-speech, Cloud Vision, a whole suite of GCP tools.
+248
+00:10:05.000 --> 00:10:09.000
+Plus the AWS experience we talked about earlier, Lambda, Recognition S3, EC2.
+249
+00:10:09.000 --> 00:10:15.000
+Experience across both major clouds, AWS and GCP, that's increasingly valuable, isn't it?
+250
+00:10:15.000 --> 00:10:19.000
+Oh, absolutely. So many companies use multi-cloud or hybrid setups now.
+251
+00:10:19.000 --> 00:10:26.000
+Being able to work across platforms, leverage the best of each, avoid getting locked into one vendor, that's a huge plus.
+252
+00:10:26.000 --> 00:10:28.000
+We should also touch on the hackathon recognition.
+253
+00:10:28.000 --> 00:10:32.000
+Right, the Fly Dubai hackathon win, baggage tracking app.
+254
+00:10:32.000 --> 00:10:36.000
+Yeah, and he won a trip to Dubai. That shows innovation under pressure.
+255
+00:10:36.000 --> 00:10:40.000
+And a top-five finish in the Tech Gig Hackathon, too, focused on geographic data.
+256
+00:10:40.000 --> 00:10:42.000
+What do wins like that usually signal?
+257
+00:10:42.000 --> 00:10:50.000
+A mix of things, usually. Strong tech skills, creativity, problem-solving on the fly, working well under tight deadlines.
+258
+00:10:50.000 --> 00:10:55.000
+It shows you can quickly build something functional, often in an area you weren't expecting.
+259
+00:10:55.000 --> 00:10:57.000
+Performs well when the heat is on.
+260
+00:10:57.000 --> 00:11:00.000
+Even going way back, that weatherbox project during the X-ray.
+
+261
+00:11:00.000 --> 00:11:05.000
+site program at JNTU, it shows that early spark, that creative application of tech.
+262
+00:11:05.000 --> 00:11:07.500
+Mm, that thread of ingenuity seems consistent.
+263
+00:11:07.500 --> 00:11:11.680
+And his LinkedIn mentions special strengths, research, and prompt engineering, which makes
+264
+00:11:11.680 --> 00:11:12.680
+sense, right?
+265
+00:11:12.680 --> 00:11:13.800
+It's evolved from just Googling stuff.
+266
+00:11:13.800 --> 00:11:17.200
+To skillfully querying these powerful LLMs.
+267
+00:11:17.200 --> 00:11:21.680
+Knowing how to ask the right question to get the right answer from an AI, that's a crucial
+268
+00:11:21.680 --> 00:11:22.680
+skill now.
+269
+00:11:22.680 --> 00:11:27.799
+So looking at the overall skill set listed, Python, Gen AI, Agentic AI, Flutter, native
+270
+00:11:27.799 --> 00:11:34.080
+Android, React, Node.js, LLMs, Lanchain, CICD, databases, APIs, it's extensive.
+271
+00:11:34.080 --> 00:11:35.080
+It really is.
+272
+00:11:35.080 --> 00:11:37.200
+A very broad and deep list.
+273
+00:11:37.200 --> 00:11:38.480
+What does they usually signify?
+274
+00:11:38.480 --> 00:11:42.759
+Well, it suggests someone who loves to learn, who keeps up with new tech, who can contribute
+275
+00:11:42.759 --> 00:11:45.360
+across the full stack, you know.
+276
+00:11:45.360 --> 00:11:49.880
+Adaptable, versatile, a valuable person to have on almost any tech team.
+277
+00:11:49.880 --> 00:11:53.360
+The LinkedIn profile itself offers a few more clues.
+278
+00:11:53.360 --> 00:11:56.400
+Open to work, status proactive about his career.
+279
+00:11:56.400 --> 00:12:00.080
+Good number of followers, connections suggests an active network.
+
+280
+00:12:00.000 --> 00:12:01.000
+work.
+281
+00:12:01.000 --> 00:12:05.680
+Profile views, search appearances, passive signs of visibility in the industry.
+282
+00:12:05.680 --> 00:12:09.240
+How important is that online presence for tech folks?
+283
+00:12:09.240 --> 00:12:10.940
+Increasingly important, I'd say.
+284
+00:12:10.940 --> 00:12:16.000
+For networking, staying current, finding opportunities, showcasing what you can do, an active profile
+285
+00:12:16.000 --> 00:12:17.000
+really helps.
+286
+00:12:17.000 --> 00:12:20.440
+And finally, he reposted stuff about a smart mirror project.
+287
+00:12:20.440 --> 00:12:24.219
+Links to Instagram with personal projects, a drone project.
+288
+00:12:24.219 --> 00:12:26.959
+So it circles back to that initial curiosity, right?
+289
+00:12:26.959 --> 00:12:30.320
+Doing things just for the front of it, exploring tech outside of the day job.
+290
+00:12:30.320 --> 00:12:32.279
+Seems like a genuine ongoing passion.
+291
+00:12:32.279 --> 00:12:33.599
+What does that usually indicate?
+292
+00:12:33.599 --> 00:12:38.759
+Often, it shows real passion, a drive to learn and experiment just because.
+293
+00:12:38.759 --> 00:12:42.759
+That self-motivated exploration often fuels innovation back in the professional world
+294
+00:12:42.759 --> 00:12:43.759
+too.
+295
+00:12:43.759 --> 00:12:48.220
+So wrapping up this deep dive on Escamolocar, what are the main takeaways?
+296
+00:12:48.220 --> 00:12:53.880
+For me, it's that relentless drive, learn, build, apply, a really strong track record
+297
+00:12:53.880 --> 00:12:57.160
+across so many areas, chatbots, cloud, AI.
+298
+00:12:57.160 --> 00:13:00.040
+Yeah, and a clear progression from foundational coding.
+
+299
+00:13:00.000 --> 00:13:05.000
+to complex enterprise systems, and always embracing the next wave, like Gen AI and Agentic
+300
+00:13:05.000 --> 00:13:06.000
+AI now.
+301
+00:13:06.000 --> 00:13:10.160
+Adaptability and that focus on practical, impactful solutions really stand out.
+302
+00:13:10.160 --> 00:13:12.880
+Which leads us to our final thought for you listening in.
+303
+00:13:12.880 --> 00:13:14.920
+Think about those principles we saw here.
+304
+00:13:14.920 --> 00:13:19.520
+The constant learning, adapting to new tech, always focusing on practical application.
+305
+00:13:19.520 --> 00:13:22.799
+How could you apply those in your own work or even your own interests?
+306
+00:13:22.799 --> 00:13:24.240
+What's your next frontier?
+307
+00:13:24.240 --> 00:13:25.240
+What new challenge?
+308
+00:13:25.240 --> 00:13:28.000
+What North Star could you start exploring right now?
+
