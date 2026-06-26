@@ -23,10 +23,12 @@
     <circle cx="320" cy="160" r="104" stroke-opacity="0.18" stroke-width="2"/>
   </g>
 
-  <!-- phone handset -->
+  <!-- phone handset (Material "call" icon, centered in the disc) -->
   <g transform="translate(320 160)">
     <circle r="58" fill="#0c141a" stroke="#22d3ee" stroke-width="3"/>
-    <path d="M-18 -20 q-6 -6 -2 -12 l8 -8 q5 -4 9 1 l9 12 q3 4 -1 8 l-5 5 q8 16 24 24 l5 -5 q4 -4 8 -1 l12 9 q5 4 1 9 l-8 8 q-6 4 -12 -2 Q-2 4 -18 -20 z" fill="#22d3ee"/>
+    <g transform="translate(-31 -31) scale(2.6)" fill="#22d3ee">
+      <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
+    </g>
   </g>
 
   <!-- waveform -->
